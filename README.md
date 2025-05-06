@@ -22,7 +22,8 @@ This project uses a deep learning-based object detection model — **Faster R-CN
 - **Classes**: 35 (Digits + Alphabets)
 
 --
-##🔤 Class Mapping
+
+## 🔤 Class Mapping
 
 -🔢 Digits: 1 to 9
 
@@ -31,14 +32,14 @@ This project uses a deep learning-based object detection model — **Faster R-CN
 -🧾 Total: 35 classes (excluding background)
 
 --
-##📚 Dataset Used
+## 📚 Dataset Used
 
 -Dataset: Indian Sign Language Detection
 -Source: Roboflow Universe
 -Classes: Indian sign gestures for 1–9 and A–Z
 -Format: COCO JSON annotations
 
-#Preprocessing:
+# Preprocessing:
 
 -Resized images to a standard resolution
 
