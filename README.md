@@ -21,7 +21,7 @@ This project uses a deep learning-based object detection model — **Faster R-CN
 - **Output**: Bounding boxes + class labels
 - **Classes**: 35 (Digits + Alphabets)
 
---
+---
 
 ## 🔤 Class Mapping
 
@@ -31,7 +31,7 @@ This project uses a deep learning-based object detection model — **Faster R-CN
 
 -🧾 Total: 35 classes (excluding background)
 
---
+---
 ## 📚 Dataset Used
 
 -Dataset: Indian Sign Language Detection
