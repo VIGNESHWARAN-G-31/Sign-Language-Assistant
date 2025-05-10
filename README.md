@@ -37,7 +37,7 @@ This project uses a deep learning-based object detection model — **Faster R-CN
 -Dataset: Indian Sign Language Detection
 -Source: Roboflow Universe
 -Classes: Indian sign gestures for 1–9 and A–Z
--Format: COCO JSON annotations
+-Format: COCO JSON annotations from roboflow
 
 # Preprocessing:
 
